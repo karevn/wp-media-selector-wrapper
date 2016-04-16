@@ -1,0 +1,16 @@
+{
+  "name": "wp-image-selector-wrapper",
+  "version": "1.0.0",
+  "description": "A simple wrapper for WordPress image selector API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WordPress",
+    "image",
+    "selector"
+  ],
+  "author": "Nikolay Karev <karev.n@gmail.com> (http://yaux.karevn.com)",
+  "license": "MIT"
+}
